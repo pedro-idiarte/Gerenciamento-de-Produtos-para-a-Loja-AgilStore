@@ -1,0 +1,32 @@
+{
+    "10046246": {
+        "name": "Notebok Ideapad  3i",
+        "category": "Notebooks",
+        "quantity": 5,
+        "price": 3256.99
+    },
+    "835238eb": {
+        "name": "Fone Logitech G435",
+        "category": "Perif\u00e9ricos",
+        "quantity": 5,
+        "price": 454.99
+    },
+    "358b3a13": {
+        "name": "Teclado Mitra",
+        "category": "Perif\u00e9ricos",
+        "quantity": 5,
+        "price": 319.99
+    },
+    "0e0086f5": {
+        "name": "Mouse Impact E",
+        "category": "Perif\u00e9ricos",
+        "quantity": 5,
+        "price": 249.99
+    },
+    "b4370dfc": {
+        "name": "Webcam C270",
+        "category": "Perif\u00e9ricos",
+        "quantity": 5,
+        "price": 199.99
+    }
+}
