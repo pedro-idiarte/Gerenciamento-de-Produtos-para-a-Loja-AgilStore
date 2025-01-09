@@ -1,4 +1,4 @@
-<h2>Tecnologias e Ferramentas</h2>h2>
+<h2>Tecnologias e Ferramentas</h2>
 
 * Python
 * JSON
